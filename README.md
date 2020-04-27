@@ -1,2 +1,1 @@
-# account-rep-bot (Slack)
-
+# account-rep-bot (Slack / Zendesk)
