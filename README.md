@@ -1,1 +1,1 @@
-# account-rep-bot
+# account-rep-bot (Slack)
